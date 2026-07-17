@@ -20,7 +20,7 @@
 + Functions of random variable i.e. $Y = g(X)$ has its own *pmf*. $P(Y = y) \equiv P(g(X) = y) \equiv \sum_{x \in g^{-1}(y)} P(x)$
 
 ### Unit 3.3 Expectation of a random variable
-+ $\mathbb{E}[x] = \sum_x x p(x)$
++ $\mathbb{E}[x] = \sum_x x \times p(x)$
 + Properties of expectation:
   + $\mathbb{E}[x + c] = \mathbb{E}[x] + c$
   + $\mathbb{E}[\lambda x] = \lambda \mathbb{E}[x]$

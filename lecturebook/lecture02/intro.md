@@ -18,7 +18,9 @@
 
 
 ### Unit 2.5
-+ Assuming that $B_i$ is a disjoint event i.e. $$
++ Assuming that
+  +  $B_i$ is a disjoint event i.e. $\cap B_i = \varnothing$
+  + $B$ is a true event i.e. $ P(\sum_{i=1}^nB_i) = 1 $
 + **Sum Rule**: $P(A \mid I) = \sum_{i=1}^nP(A,B_i \mid I) = \sum_{i=1}^n P(A \mid B_i, I) \times P(B_i \mid I)$. Example what is the probability of drawing a red ball in second draw. 
 $$
 \begin{split}
