@@ -6,3 +6,6 @@
 + Understand how regularization parameters help us avoid overfitting.
 + Understand the Bayesian interpretation of regularization parameters.
 + Understand the mathematics of convolutional layers.
+## Training a binary classifier
+
+ 
